@@ -6,9 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MathGameMenuScene.unity
+    path: Assets/Scenes/GameScene/MathGameMenuScene.unity
+    guid: 014dfb9ba04b7f442bed61d76e47f67e
+  - enabled: 1
+    path: Assets/Scenes/GameScene/MathGameScene.unity
+    guid: 5d43403cb3fdcef42b48134c600436cd
+  - enabled: 1
+    path: Assets/Scenes/GameScene/MathGameRestartScene.unity
     guid: ef789cc9367ef2140a78e2b48737fc09
   - enabled: 1
-    path: Assets/Scenes/MathGameScene.unity
-    guid: 5d43403cb3fdcef42b48134c600436cd
+    path: Assets/Scenes/GameScene/MathGameWinScene.unity
+    guid: ba8e28e0feaf6fa4baa3326b80209970
   m_configObjects: {}
